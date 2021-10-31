@@ -1,5 +1,6 @@
 # Yaspeller Dictionary (Auto)builder
 
+[![CI](https://github.com/razum2um/yaspeller-dictionary-builder/actions/workflows/python.yml/badge.svg)](https://github.com/razum2um/yaspeller-dictionary-builder/actions/workflows/python.yml)
 ## Usage
 
 ```sh
