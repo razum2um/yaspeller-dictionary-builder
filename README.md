@@ -20,6 +20,16 @@ Normally you just want to ignore that, but there's the only possibility to add a
 This generates a array of dictionary words including all lexems for all cases like
 
 ```
+[
+    "[бБ]аг(а|ам|ами|ах|е|и|ов|ом|у)?",
+    "[дД]ифф(а|ам|ами|ах|е|ов|ом|у|ы)?",
+    "[кК]оммит(а|ам|ами|ах|е|ов|ом|у|ы)?",
+    "[пП]атчинг(а|ам|ами|ах|е|и|ов|ом|у)?",
+    "[рР]убист(а|ам|ами|ах|е|ов|ом|у|ы)?",
+    "[сС]амоорганизованн(ого|ом|ому|ую|ые|ый|ым|ыми|ых)",
+    "[тТ]икет(а|ам|ами|ах|е|ов|ом|у|ы)?",
+    "коммитить"
+]
 ```
 
 from yaspeller errors (in text format looking like)
