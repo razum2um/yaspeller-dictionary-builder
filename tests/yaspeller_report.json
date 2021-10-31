@@ -1,0 +1,176 @@
+[
+  [
+    false,
+    {
+      "resource": "www.ruby-lang.org/ru/community/ruby-core/index.md",
+      "data": [
+        {
+          "code": 1,
+          "word": "патчингом",
+          "count": 1,
+          "position": [
+            {
+              "line": 36,
+              "column": 27
+            }
+          ]
+        },
+        {
+          "code": 1,
+          "word": "патчингах",
+          "count": 1,
+          "position": [
+            {
+              "line": 46,
+              "column": 47
+            }
+          ]
+        },
+        {
+          "code": 1,
+          "word": "коммитить",
+          "count": 1,
+          "suggest": [
+            "комитет"
+          ],
+          "position": [
+            {
+              "line": 68,
+              "column": 32
+            }
+          ]
+        },
+        {
+          "code": 1,
+          "word": "багах",
+          "count": 1,
+          "suggest": [
+            "богах",
+            "баках",
+            "бегах"
+          ],
+          "position": [
+            {
+              "line": 75,
+              "column": 15
+            }
+          ]
+        },
+        {
+          "code": 1,
+          "word": "баги",
+          "count": 1,
+          "suggest": [
+            "багги"
+          ],
+          "position": [
+            {
+              "line": 89,
+              "column": 24
+            }
+          ]
+        },
+        {
+          "code": 1,
+          "word": "баг",
+          "count": 1,
+          "position": [
+            {
+              "line": 96,
+              "column": 25
+            }
+          ]
+        },
+        {
+          "code": 1,
+          "word": "тикет",
+          "count": 1,
+          "suggest": [
+            "этикет"
+          ],
+          "position": [
+            {
+              "line": 107,
+              "column": 14
+            }
+          ]
+        },
+        {
+          "code": 1,
+          "word": "дифф",
+          "count": 1,
+          "position": [
+            {
+              "line": 115,
+              "column": 18
+            }
+          ]
+        },
+        {
+          "code": 1,
+          "word": "коммиту",
+          "count": 1,
+          "suggest": [
+            "комету",
+            "комнату"
+          ],
+          "position": [
+            {
+              "line": 147,
+              "column": 24
+            }
+          ]
+        },
+        {
+          "code": 1,
+          "word": "коммита",
+          "count": 1,
+          "suggest": [
+            "комета"
+          ],
+          "position": [
+            {
+              "line": 148,
+              "column": 58
+            }
+          ]
+        }
+      ],
+      "time": 250
+    }
+  ],
+  [
+    false,
+    {
+      "resource": "www.ruby-lang.org/ru/community/index.md",
+      "data": [
+        {
+          "code": 1,
+          "word": "самоорганизованными",
+          "count": 1,
+          "suggest": [
+            "само организованными"
+          ],
+          "position": [
+            {
+              "line": 17,
+              "column": 12
+            }
+          ]
+        },
+        {
+          "code": 1,
+          "word": "рубистами",
+          "count": 1,
+          "position": [
+            {
+              "line": 28,
+              "column": 14
+            }
+          ]
+        }
+      ],
+      "time": 130
+    }
+  ]
+]
