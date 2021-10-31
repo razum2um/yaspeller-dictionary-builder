@@ -19,4 +19,5 @@ jobs:
       if: steps.cache-virtualenv.outputs.cache-hit != 'true'
     - run: pip install -r requirements.txt
       if: steps.cache-virtualenv.outputs.cache-hit != 'true'
-    - run: nosetests
+    - run: make lint
+    - run: make test

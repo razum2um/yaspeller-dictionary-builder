@@ -58,9 +58,12 @@ def _regexp_inflectable(parsed, inflection_cases):
     if len(suffixes) == 0:
         regexp_suffixes = ''
         optional_regexp_suffix = ''
+
+    regexp = "[%s%s]" % (start, start.upper()) + prefix[1:] + \
+        regexp_suffixes + optional_regexp_suffix
     # debug output using this:
-    # return "[%s%s]%s%s%s | %s | %s" % (start, start.upper(), prefix[1:], regexp_suffixes, optional_regexp_suffix, parsed.word, parsed.tag)
-    return "[%s%s]%s%s%s" % (start, start.upper(), prefix[1:], regexp_suffixes, optional_regexp_suffix)
+    # return "%s | %s | %s" % (regexp, parsed.word, parsed.tag)
+    return regexp
 
 
 def inflections(parsed):
