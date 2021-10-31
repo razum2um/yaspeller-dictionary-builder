@@ -51,3 +51,7 @@ Typos: 9
 9. коммита (148:58, suggest: комета)
 -----
 ```
+
+## Live example
+
+Initially created for [www.ruby-lang.org](https://github.com/ruby/www.ruby-lang.org/pull/2720) translations spellchecking
